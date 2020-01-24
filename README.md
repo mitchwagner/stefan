@@ -24,7 +24,7 @@ frame, the SCN specifies that
 w
 m; 1m
 wd
-w; 3c;
+w; 3c
 ```
 
 Note that whether or not a bag was dirty or not is specified
